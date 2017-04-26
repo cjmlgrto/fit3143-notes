@@ -7,7 +7,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 
 ## Contents
 
-1. Distributed Systems
+1. [Distributed Systems](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/01-distributed_systems.md)
 2. Inter-Process Communications
 3. Remote Procedure Call
 4. Message-Passing Library
