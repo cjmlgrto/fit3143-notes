@@ -7,9 +7,9 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 
 ## Contents
 
-1. [Distributed Systems](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/01-distributed_systems.md)
+1. [Distributed Systems](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/01-ds.md)
 2. [Inter-Process Communications](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/02-ipc.md)
-3. Remote Procedure Call
+3. [Remote Procedure Call](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/03-rpc.md)
 4. Message-Passing Library
 5. Synchronisation
 6. Mutual Exclusion
