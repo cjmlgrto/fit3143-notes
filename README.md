@@ -19,7 +19,6 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 10. Concurrency Control
 11. Faults
 12. Distributed Consensus
-13. Security
 14. Parallel Computing
 15. Parallel Computing Alternatives
 16. Instruction-Level Parallelism
@@ -28,4 +27,3 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 19. SIMD Architectures
 20. MIMD Architectures
 21. Distributed Memory MIMD Architectures
-22. Super Scalar Processing
