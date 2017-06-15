@@ -12,7 +12,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 3. [Remote Procedure Call](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/03-rpc.md)
 4. [Message-Passing Library](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/04-mpi.md)
 5. [Synchronisation](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/05-sync.md)
-6. Mutual Exclusion
+6. [Mutual Exclusion](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/06-mutex.md)
 7. Deadlocks
 8. Election Algorithms
 9. Distributed Transactions
