@@ -13,8 +13,8 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 4. [Message-Passing Library](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/04-mpi.md)
 5. [Synchronisation](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/05-sync.md)
 6. [Mutual Exclusion](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/06-mutex.md)
-7. Deadlocks
-8. Election Algorithms
+7. [Deadlocks](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/07-deadlocks.md)
+8. [Election Algorithms](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/08-election.md)
 9. Distributed Transactions
 10. Concurrency Control
 11. Faults
