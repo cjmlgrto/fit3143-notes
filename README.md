@@ -15,8 +15,8 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 6. [Mutual Exclusion](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/06-mutex.md)
 7. [Deadlocks](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/07-deadlocks.md)
 8. [Election Algorithms](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/08-election.md)
-9. Distributed Transactions
-10. Concurrency Control
+9. [Distributed Transactions](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/09-distributed-transactions.md)
+10. [Concurrency Control](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/10-concurrency-control.md)
 11. Faults
 12. Distributed Consensus
 14. Parallel Computing
