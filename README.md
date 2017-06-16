@@ -17,7 +17,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 8. [Election Algorithms](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/08-election.md)
 9. [Distributed Transactions](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/09-distributed-transactions.md)
 10. [Concurrency Control](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/10-concurrency-control.md)
-11. Faults
+11. [Faults](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/11-faults.md)
 12. Distributed Consensus
 14. Parallel Computing
 15. Parallel Computing Alternatives
