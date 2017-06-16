@@ -19,11 +19,11 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 10. [Concurrency Control](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/10-concurrency-control.md)
 11. [Faults](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/11-faults.md)
 12. [Distributed Consensus](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/12-distributed-consensus.md)
-14. Parallel Computing
-15. Parallel Computing Alternatives
-16. Instruction-Level Parallelism
-17. Vector Architecture
-18. Data Parallel Architectures
-19. SIMD Architectures
-20. MIMD Architectures
-21. Distributed Memory MIMD Architectures
+13. [Parallel Computing](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/13-parallel-computing.md)
+14. Parallel Computing Alternatives
+15. Instruction-Level Parallelism
+16. Vector Architecture
+17. Data Parallel Architectures
+18. SIMD Architectures
+19. MIMD Architectures
+20. Distributed Memory MIMD Architectures
