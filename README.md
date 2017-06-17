@@ -20,10 +20,11 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3143-notes
 11. [Faults](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/11-faults.md)
 12. [Distributed Consensus](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/12-distributed-consensus.md)
 13. [Parallel Computing](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/13-parallel-computing.md)
-14. Parallel Computing Alternatives
-15. Instruction-Level Parallelism
-16. Vector Architecture
-17. Data Parallel Architectures
-18. SIMD Architectures
-19. MIMD Architectures
-20. Distributed Memory MIMD Architectures
+14. [Parallel Computing Alternatives](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/14-parallel-computing-alts.md)
+15. [Instruction-Level Parallelism](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/15-ilp.md)
+16. [Vector Architecture](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/16-vector-architecture.md)
+17. [Data Parallel Architectures](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/17-data-parallel-arch.md)
+18. [SIMD Architectures](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/18-simd.md)
+19. [MIMD Architectures](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/19-mimd.md)
+20. [Distributed Memory MIMD Architectures](https://github.com/cjmlgrto/fit3143-notes/blob/master/notes/20-dm-mimd.md)
+
