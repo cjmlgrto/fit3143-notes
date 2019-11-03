@@ -19,7 +19,7 @@
 	* **Request Edges**
 * In a resource allocation graph, a _cycle_ is a necessary condition for a deadlock to exist
 * If there is only one copy of all resource: can result in a cycle
-* If there are multiple copies of some resources: can result in a know
+* If there are multiple copies of some resources: can result in a knot
 * A **knot** in a directed graph is a collection of nodes and edges with the property that _every vertex in the knot has outgoing edges, and all outgoing edges from vertices in the knot terminate at other vertices in the knot_ (i.e. when all the vertices are connected by outgoing edges)
 
 ### Wait for Graph
