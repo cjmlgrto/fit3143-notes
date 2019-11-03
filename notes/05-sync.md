@@ -51,7 +51,7 @@
 	7. Everyone adjusts their time
 - With this method, the average cancels out individual clock’s tendencies to drift
 - Computer systems avoid rewinding their clock when they receive a negative clock alteration — doing so would break the property of monotonic time, which is a fundamental assumption
-- A simple solution is to half the clock for the duration (but this simplistic solution can cause problems)
+- A simple solution is to halt the clock for the duration (but this simplistic solution can cause problems)
 - Another solution is to slow the clock
 
 ### Averaging Algorithm
