@@ -104,7 +104,7 @@ An **atomic transaction** gives a view that either a set of operations is all co
 * One process acts as the coordinator
 * The other participating processes are subordinates (“cohorts”)
 * The coordinator writes an entry “prepare” in the log on a stable storage and sends the other processes involved (the subordinates) a message telling them to prepare
-* When a subordinate receives the message, it checks to see if it is ready to commit, makes a long entry, and sends back its decision
+* When a subordinate receives the message, it checks to see if it is ready to commit, makes a log entry, and sends back its decision
 * After collecting all the responses, if all the processes are ready to commit, the transaction is committed (otherwise, aborted)
 * The coordinator writes a log entry and sends a message to each subordinate informing it of the decision
 * The coordinator’s writing commit log actually means committing the transaction and no rolling back occurs no matter what happens afterward
