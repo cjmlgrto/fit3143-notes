@@ -92,7 +92,7 @@
 
 ### Summary of Static Network Parameters
 | Topology | Node Degree | Diameter | Bisection Width | Arc Connectivity | Cost |
-|
+:--|:--|:--|:--|:--|:--
 | Linear Array | 1 or 2 | N - 1 | 1 | 1 | N - 1 |
 | Ring | 2 | N/2 | 2 | 2 | N |
 | Star | 1 or N-1 | 2 | 1 | 1 | N - 1 |
